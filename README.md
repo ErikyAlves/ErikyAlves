@@ -23,5 +23,6 @@ Olá, meu nome é Francisco Eriky, tenho 22 anos, sou aluno do curso staart, mor
 ## Contatos
 
 - Github @erikyalves
+- Instagram @erikyalvess
 - Email contato@erikyalves.com
 - Linkedin eriky-alves
