@@ -3,7 +3,7 @@
 ![1654950317918](https://user-images.githubusercontent.com/95571259/173187937-9a9e92f7-9186-481b-a24d-1e2e25009662.jpg)
 
  
-Olá, meu nome é Francisco Eriky, tenho 22 anos, sou aluno do curso staart, moro em Antonina do Norte CE
+Olá, meu nome é Eriky, tenho 22 anos, atualmente estou estudando as ferramentas necessárias para me tornar um desenvolvedor Front-End, moro em Antonina do Norte CE
 
 ## Meus hobbies
 
@@ -22,6 +22,6 @@ Olá, meu nome é Francisco Eriky, tenho 22 anos, sou aluno do curso staart, mor
  
 ## Contatos
 
-- Github @erikyalves
-- Email contato@erikyalves.com
-- Linkedin eriky-alves
+- Github @erikyalves (https://github.com/ErikyAlves)
+- Email (erikyalves3k@gmail.com)
+- Linkedin eriky-alves (https://www.linkedin.com/in/eriky-alves/)
